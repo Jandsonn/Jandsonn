@@ -17,8 +17,9 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.hdqwalls.com/download/skull-hacking-time-4k-rh-2560x1080.jpg">
   <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
   <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-    <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-     <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png">
+  <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+  <p>
+  <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png">
   <i class="devicon-github-original colored"></i>
 
   </div>
