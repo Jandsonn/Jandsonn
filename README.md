@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👽 Hi, my name is Jandson Ferreira...
-🖥️ I'm studying: Html, CSS, Javascript, Typescript, Angular, NodeJs, Sql, Java
+🖥️ I'm studying: Html, CSS, Javascript, Typescript, Angular, NodeJs, Sql, Java, IaC, Kubernetes, Aws
 
 <div align="center">
   <a href="https://github.com/jandsonn">
